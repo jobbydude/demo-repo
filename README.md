@@ -1,3 +1,3 @@
 # Demo
 
-My first repository for Github.
+My first repository for Github. ;)
